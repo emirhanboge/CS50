@@ -20,7 +20,7 @@
   * [mario](pset6/mario.py)
   * [cash](pset6/cash.py)
   * [readability](pset6/readability.py)
-  * [dna](pset6/dna)
+  * [dna](pset6/DNA/dna)
 - [Problem Set 7: SQL](pset7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Assignments 7</a>
   * [movies](pset7/movies)
   * [houses](pset7/houses)
