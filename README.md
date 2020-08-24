@@ -2,8 +2,7 @@
 
 - [Problem Set 1: C](pset1) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
   * [hello](pset1/hello)
-  * mario
-    + [less](pset1/mario/less)
+  * [mario](pset1/mario/less)
   * [cash](pset1/cash)
 - [Problem Set 2: Crypto](pset2) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Assignments 2</a> 
   * [caesar](pset2)
