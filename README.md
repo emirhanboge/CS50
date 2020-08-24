@@ -27,7 +27,7 @@ This folder repository my solutions for Harvard University's CS50x Problem Sets
     + [more](pset6/mario/more)
   * [cash](pset6/cash)
   * [readability](pset6/readability)
-  * [dna](/pset6/dna)
+  * [dna](pset6/dna)
 - [Problem Set 7: SQL](pset7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Assignments 7</a>
   * [movies](pset7/movies)
   * [houses](pset7/houses/houses)
